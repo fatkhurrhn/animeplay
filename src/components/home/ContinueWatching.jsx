@@ -65,7 +65,7 @@ const ContinueWatching = ({
         <section className="px-4 mt-6 animate-fadeIn">
             <div className="flex items-center justify-between mb-3">
                 <div className="flex items-center space-x-2">
-                    <h2 className="text-base text-white">
+                    <h2 className="text-base font-medium text-white">
                         Continue Watching
                     </h2>
                 </div>

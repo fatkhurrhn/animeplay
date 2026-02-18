@@ -106,6 +106,9 @@ export const useHomeData = () => {
         return animeData;
       case 'donghua':
         return donghuaData;
+      case 'all':
+        // Untuk tab All, return array kosong karena akan di-handle oleh ContentGrid sendiri
+        return [];
       default:
         return animeData;
     }
@@ -117,6 +120,8 @@ export const useHomeData = () => {
         return 'Latest Anime';
       case 'donghua':
         return 'Latest Donghua';
+      case 'all':
+        return 'Latest Updates';
       default:
         return 'Latest Anime';
     }

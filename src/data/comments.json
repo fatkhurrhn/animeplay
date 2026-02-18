@@ -1,0 +1,738 @@
+[
+  {
+    "id": 1,
+    "name": "Ronin_Random",
+    "comment": "Episode ini gila sih 🔥 animasinya pecah banget!",
+    "createdAt": "2026-01-18T10:00:00",
+    "likes": 12
+  },
+  {
+    "id": 2,
+    "name": "Kitsune_Mask",
+    "comment": "Plot twist nya nggak nyangka sama sekali 😭",
+    "createdAt": "2026-01-18T07:00:00",
+    "likes": 5
+  },
+  {
+    "id": 3,
+    "name": "Naruto_Forever",
+    "comment": "Next episode kayaknya bakal lebih brutal 👀",
+    "createdAt": "2026-01-17T12:00:00",
+    "likes": 21
+  },
+  {
+    "id": 4,
+    "name": "Gekiga_Style",
+    "comment": "Soundtrack nya enak banget sumpah.",
+    "createdAt": "2026-01-16T09:00:00",
+    "likes": 3
+  },
+  {
+    "id": 5,
+    "name": "Samurai_X_1222",
+    "comment": "Character development nya kerasa banget 👍",
+    "createdAt": "2026-01-15T18:00:00",
+    "likes": 8
+  },
+  {
+    "id": 6,
+    "name": "Himawari",
+    "comment": "Studio ini emang jagonya bikin scene pertarungan. Animasi fluid banget! 🥶",
+    "createdAt": "2026-02-18T16:20:00",
+    "likes": 67
+  },
+  {
+    "id": 7,
+    "name": "KuroNeko",
+    "comment": "Yang protes pacing lambat, coba deh baca manganya. Ini udah di-pacing dengan pas buat nunjukin karakter development.",
+    "createdAt": "2026-02-18T15:45:00",
+    "likes": 23
+  },
+  {
+    "id": 8,
+    "name": "YukiChan",
+    "comment": "OPENING NYA LAGI VIRAL DI TIKTOK! Eh ternyata enak bener lagunya.",
+    "createdAt": "2026-02-18T14:30:00",
+    "likes": 112
+  },
+  {
+    "id": 9,
+    "name": "Rey_Anime",
+    "comment": "MC kayak gini nih yang bikin betah nonton. Gak baperan, straight to the point, tapi tetap punya hati.",
+    "createdAt": "2026-02-18T13:15:00",
+    "likes": 45
+  },
+  {
+    "id": 10,
+    "name": "Mochi_03",
+    "comment": "Anime musim ini emang gila-gila. Tapi ini tetep jadi candidate AOTY sih menurutku.",
+    "createdAt": "2026-02-18T12:50:00",
+    "likes": 89
+  },
+  {
+    "id": 11,
+    "name": "Nezu_kun",
+    "comment": "Wait, ini filler atau canon? Soalnya seru banget padahal gak ada di manga.",
+    "createdAt": "2026-02-18T11:40:00",
+    "likes": 16
+  },
+  {
+    "id": 12,
+    "name": "Rin_Toast",
+    "comment": "SEIHAI! Akhirnya scene ini keadaptasi. Pas baca manga dulu sampe nangis, sekarang lihat versi animasinya malah nangis harder.",
+    "createdAt": "2026-02-18T10:25:00",
+    "likes": 203
+  },
+  {
+    "id": 13,
+    "name": "Baka_King",
+    "comment": "Goblok banget si karakter X, bego amat sih lo. Tapi sumpah gemes, pengen jitak",
+    "createdAt": "2026-02-18T09:30:00",
+    "likes": 31
+  },
+  {
+    "id": 14,
+    "name": "Loli_Pop",
+    "comment": "Why is no one talking about the ED? Visualnya aesthetic banget, kayak ngerasa lagi di festival.",
+    "createdAt": "2026-02-18T08:15:00",
+    "likes": 19
+  },
+  {
+    "id": 15,
+    "name": "Saitama_07",
+    "comment": "Satu episode cuma 20 menit? Gak cukup! MINTA TAMBAHAN 1 JAM!",
+    "createdAt": "2026-02-18T07:00:00",
+    "likes": 311
+  },
+  {
+    "id": 16,
+    "name": "Tsundere-chan",
+    "comment": "B-Bukan karena aku suka scene romance-nya ya! Cuma penasaran aja!",
+    "createdAt": "2026-02-18T05:30:00",
+    "likes": 56
+  },
+  {
+    "id": 17,
+    "name": "Gintoki_Lover",
+    "comment": "Referensi budaya Jepangnya dapet banget. Apalagi pas scene festival tadi, bikin kangen pengen ke Jepang.",
+    "createdAt": "2026-02-18T03:45:00",
+    "likes": 27
+  },
+  {
+    "id": 18,
+    "name": "Oni_Chan",
+    "comment": "Yang komen subtitle-nya jelek, ganti server aja bro. Di sini lancar jaya.",
+    "createdAt": "2026-02-18T02:10:00",
+    "likes": 42
+  },
+  {
+    "id": 19,
+    "name": "Kaze_no_Yoru",
+    "comment": "Ini pertama kalinya aku nonton anime dengan genre begini. Biasanya gak minat, tapi ini seru juga!",
+    "createdAt": "2026-02-18T01:25:00",
+    "likes": 13
+  },
+  {
+    "id": 20,
+    "name": "Hana_Yori_Dango",
+    "comment": "Pengisi suara (seiyuu) MC-nya top tier banget. Tangisan, amarah, bahagia, semua kebawa.",
+    "createdAt": "2026-02-17T23:55:00",
+    "likes": 74
+  },
+  {
+    "id": 21,
+    "name": "Senpai_Kun",
+    "comment": "Menurut kalian, apakah antagonis ini beneran jahat atau cuma korban keadaan?",
+    "createdAt": "2026-02-17T22:40:00",
+    "likes": 38
+  },
+  {
+    "id": 22,
+    "name": "Manga_Reader_99",
+    "comment": "Hadeh, di-skip lagi scene pentingnya. Padahal di manga ini momen krusial buat perkembangan karakter sampingan.",
+    "createdAt": "2026-02-17T21:30:00",
+    "likes": 15
+  },
+  {
+    "id": 23,
+    "name": "Neko_Mimimi",
+    "comment": "Buat yang nyari anime dengan vibes hangat dan healing, ini recomended banget sih.",
+    "createdAt": "2026-02-17T20:15:00",
+    "likes": 61
+  },
+  {
+    "id": 24,
+    "name": "Shonen_Jump_Fan",
+    "comment": "Pertarungannya epic! Tapi kok rasanya power scaling-nya agak aneh ya? Tiba-tiba musuh sekuat itu.",
+    "createdAt": "2026-02-17T19:00:00",
+    "likes": 9
+  },
+  {
+    "id": 25,
+    "name": "Yuri_Hime",
+    "comment": "Finally, representasi yuri yang gak cuma fanservice. Relationship-nya dibangun dengan manis banget.",
+    "createdAt": "2026-02-17T18:20:00",
+    "likes": 87
+  },
+  {
+    "id": 26,
+    "name": "Bocchi_Desu",
+    "comment": "Anime ini literally me. Karakternya introvert tapi pengen punya teman, relatable bgt.",
+    "createdAt": "2026-02-17T17:45:00",
+    "likes": 52
+  },
+  {
+    "id": 27,
+    "name": "Wibu_Kompleks",
+    "comment": "Studio mana nih yang nge-handle? Cakep banget shading-nya, beda dari biasanya.",
+    "createdAt": "2026-02-17T16:30:00",
+    "likes": 24
+  },
+  {
+    "id": 28,
+    "name": "Isekai_Trash",
+    "comment": "Bosen sama isekai yang itu-itu aja. Eh nemu ini, beda! Dunianya unik, gak cuma game RPG doang.",
+    "createdAt": "2026-02-17T15:10:00",
+    "likes": 41
+  },
+  {
+    "id": 29,
+    "name": "Kuudere_Sama",
+    "comment": "... (nonton tapi diem aja, dalem hati: bagus)",
+    "createdAt": "2026-02-17T14:50:00",
+    "likes": 101
+  },
+  {
+    "id": 30,
+    "name": "Akihabara_Explorer",
+    "comment": "Siapa nih yang sengaja nunggu sampe malem biar nontonnya lebih hareg?",
+    "createdAt": "2026-02-17T13:20:00",
+    "likes": 66
+  },
+  {
+    "id": 31,
+    "name": "Mecha_Lover",
+    "comment": "Design mecha-nya sick! Akhirnya ada anime mecha yang gak mainstream.",
+    "createdAt": "2026-02-17T12:00:00",
+    "likes": 18
+  },
+  {
+    "id": 32,
+    "name": "Fujoshi_Hime",
+    "comment": "Ehehe, interaksi karakter A dan B bikin senyum-senyum sendiri. Author pasti tahu apa yang dia lakukan ( ͡° ͜ʖ ͡°)",
+    "createdAt": "2026-02-17T10:30:00",
+    "likes": 156
+  },
+  {
+    "id": 33,
+    "name": "Seinen_Junkie",
+    "comment": "Dewasa banget ceritanya. Dialog-dialognya filosofis, bikin mikir sampe malem.",
+    "createdAt": "2026-02-17T09:15:00",
+    "likes": 33
+  },
+  {
+    "id": 34,
+    "name": "Naruto_Forever",
+    "comment": "Kangen anime dengan petualangan seru kayak dulu. Eh nemu ini, nostalgia banget rasanya.",
+    "createdAt": "2026-02-17T08:40:00",
+    "likes": 27
+  },
+  {
+    "id": 35,
+    "name": "Sakura_Blossom",
+    "comment": "Warnanya cerah, karakternya imut, ceritanya happy. Perfect buat nemenin weekend pagi.",
+    "createdAt": "2026-02-17T07:55:00",
+    "likes": 44
+  },
+  {
+    "id": 36,
+    "name": "Anime_Addict_22",
+    "comment": "Kalo liat rating di MyAnimeList naik terus, pasti bakal jadi anime populer musim ini.",
+    "createdAt": "2026-02-17T06:30:00",
+    "likes": 71
+  },
+  {
+    "id": 37,
+    "name": "Kitsune_Mask",
+    "comment": "Ada yang ngeh gak sama foreshadowing di episode 3? Kelihatannya sepele, tapi ini petunjuk buat episode 20-an!",
+    "createdAt": "2026-02-17T05:00:00",
+    "likes": 13
+  },
+  {
+    "id": 38,
+    "name": "Chibi_Chibi",
+    "comment": "Chibi version-nya lucu banget! Pas SD versionnya muncul, auto ngakak",
+    "createdAt": "2026-02-17T04:15:00",
+    "likes": 22
+  },
+  {
+    "id": 39,
+    "name": "Ronin_Random",
+    "comment": "Gak nyangka bakal sambil belajar budaya Jepang juga. Mereka nunjukin proses upacara minum teh dengan bener.",
+    "createdAt": "2026-02-17T03:30:00",
+    "likes": 16
+  },
+  {
+    "id": 40,
+    "name": "Majo_no_Tabi",
+    "comment": "Anime dengan tema penyihir kayak gini tuh selalu menarik. Sihirnya gak OP, tapi kreatif.",
+    "createdAt": "2026-02-17T02:45:00",
+    "likes": 29
+  },
+  {
+    "id": 41,
+    "name": "Tora_Chan",
+    "comment": "Plot twist di menit-menit akhir... DUDUK GUA JATUH! Gak nyangka sama sekali!",
+    "createdAt": "2026-02-16T23:10:00",
+    "likes": 185
+  },
+  {
+    "id": 42,
+    "name": "Kamen_no_Kidou",
+    "comment": "Tokoh antagonisnya... gua malah kasian. Masa lalunya kelam banget.",
+    "createdAt": "2026-02-16T22:00:00",
+    "likes": 48
+  },
+  {
+    "id": 43,
+    "name": "Otaku_Depression",
+    "comment": "Abis nonton episode ini kok rasanya hollow? Sedih tapi gak tahu kenapa sedih.",
+    "createdAt": "2026-02-16T21:20:00",
+    "likes": 34
+  },
+  {
+    "id": 44,
+    "name": "Gekiga_Style",
+    "comment": "Ekspresi wajah karakternya dapet banget. Bisa lihat perubahan emosi minor dari alis dan mulut. Detail banget!",
+    "createdAt": "2026-02-16T20:40:00",
+    "likes": 21
+  },
+  {
+    "id": 45,
+    "name": "Shinobi_Ryuu",
+    "comment": "Ini adaptasi novel ringan (LN) kan ya? Biasanya adaptasi LN tuh amburadul, tapi ini one of the best!",
+    "createdAt": "2026-02-16T19:55:00",
+    "likes": 37
+  },
+  {
+    "id": 46,
+    "name": "Samurai_X_1996",
+    "comment": "Yang nonton ini umur berapa? Aku 35 taun masih setia nonton anime",
+    "createdAt": "2026-02-16T18:30:00",
+    "likes": 93
+  },
+  {
+    "id": 47,
+    "name": "Haru_No_Uta",
+    "comment": "Lagu penutup (ED) nya dinyanyiin sama seiyuu utamanya kan? Suaranya merdu banget.",
+    "createdAt": "2026-02-16T17:45:00",
+    "likes": 18
+  },
+  {
+    "id": 48,
+    "name": "Baka_Gaijin",
+    "comment": "I don't understand Japanese but the emotion is universal. 素晴らしい!",
+    "createdAt": "2026-02-16T16:20:00",
+    "likes": 56
+  },
+  {
+    "id": 49,
+    "name": "Nantoka_naru",
+    "comment": "Anime slice of life yang beneran slice of life. Gak ada drama berlebihan, cuma keseharian yang hangat.",
+    "createdAt": "2026-02-16T15:10:00",
+    "likes": 42
+  },
+  {
+    "id": 50,
+    "name": "Kowai_Desu",
+    "comment": "Ini horror psikologis beneran. Bukan cuma kejutan tiba-tiba, tapi rasa nggak nyamanya nempel terus.",
+    "createdAt": "2026-02-16T14:25:00",
+    "likes": 27
+  },
+  {
+    "id": 51,
+    "name": "Moe_Moe_Kyun",
+    "comment": "Moeblob! Karakternya terlalu imut, pengen kubawa pulang",
+    "createdAt": "2026-02-16T13:00:00",
+    "likes": 61
+  },
+  {
+    "id": 52,
+    "name": "Josei_Joyu",
+    "comment": "Akhirnya ada anime yang targetnya wanita dewasa (josei). Romance yang realistis dan gak lebay.",
+    "createdAt": "2026-02-16T12:30:00",
+    "likes": 39
+  },
+  {
+    "id": 53,
+    "name": "Kodomo_no_Jikan",
+    "comment": "Anime keluarga yang langka! Bisa ditonton sama adek kecil, pesan moralnya kuat.",
+    "createdAt": "2026-02-16T11:15:00",
+    "likes": 15
+  },
+  {
+    "id": 54,
+    "name": "Shinigami_Watcher",
+    "comment": "Nuansa supernaturalnya dapet banget. Bikin merinding pas lihat arwah gentayangan.",
+    "createdAt": "2026-02-16T10:00:00",
+    "likes": 24
+  },
+  {
+    "id": 55,
+    "name": "Ramen_Daisuki",
+    "comment": "Kenapa di anime makanan selalu keliatan enak banget? Pas scene mereka makan ramen, ngiler gua",
+    "createdAt": "2026-02-16T09:30:00",
+    "likes": 79
+  },
+  {
+    "id": 56,
+    "name": "Tabi_Nikki",
+    "comment": "Anime travelog kayak gini bikin pengen jalan-jalan keliling Jepang naik sepeda.",
+    "createdAt": "2026-02-16T08:45:00",
+    "likes": 22
+  },
+  {
+    "id": 57,
+    "name": "Cyber_Otaku",
+    "comment": "Sci-fi yang masuk akal. Mereka mikirin dampak teknologi ke masyarakat, gak cuma robot tempur doang.",
+    "createdAt": "2026-02-16T07:50:00",
+    "likes": 18
+  },
+  {
+    "id": 58,
+    "name": "Sports_Anime_Freak",
+    "comment": "Scene pertandingannya epic! Editingnya cepat, musiknya menggebu-gebu. Jantung berasa ikut lari.",
+    "createdAt": "2026-02-16T06:20:00",
+    "likes": 47
+  },
+  {
+    "id": 59,
+    "name": "Doujinshi_Artist",
+    "comment": "Desain karakternya simple tapi ikonik. Gampang digambar buat fanart. Noice.",
+    "createdAt": "2026-02-16T05:35:00",
+    "likes": 33
+  },
+  {
+    "id": 60,
+    "name": "Irotama",
+    "comment": "Satu episode penuh dialog, tapi gak bosen. Naskahnya pinter banget.",
+    "createdAt": "2026-02-16T04:55:00",
+    "likes": 12
+  },
+  {
+    "id": 61,
+    "name": "Bento_Box",
+    "comment": "Banyak yang bilang ini overrated, tapi buatku ini tontonan ringan yang pas buat after work.",
+    "createdAt": "2026-02-16T03:40:00",
+    "likes": 28
+  },
+  {
+    "id": 62,
+    "name": "Dungeon_Crawler",
+    "comment": "Unsur RPG-nya dalem. Mereka beneran pake sistem class, skill tree, dan party composition.",
+    "createdAt": "2026-02-15T23:00:00",
+    "likes": 20
+  },
+  {
+    "id": 63,
+    "name": "Yami_no_Ouja",
+    "comment": "Dark fantasy terbaik sejak Berserk. Kelam, brutal, tapi ada secercah harapan.",
+    "createdAt": "2026-02-15T22:30:00",
+    "likes": 74
+  },
+  {
+    "id": 64,
+    "name": "Hoshi_no_Nagare",
+    "comment": "Space opera kayak gini jarang banget. Bikin ingat anime klasik tahun 80an.",
+    "createdAt": "2026-02-15T21:45:00",
+    "likes": 16
+  },
+  {
+    "id": 65,
+    "name": "Kira_Kira_PreCure",
+    "comment": "Warna-warni ceria, transformasinya cantik, lagunya catchy. Anak kecil suka, orang dewasa juga betah.",
+    "createdAt": "2026-02-15T20:15:00",
+    "likes": 45
+  },
+  {
+    "id": 66,
+    "name": "Sekai_Ichi",
+    "comment": "Ini ceritanya tentang industri anime? Ada referensi tentang studio dan jadwal tayang yang mepet. Auto ngerti suka dukanya wibu",
+    "createdAt": "2026-02-15T19:30:00",
+    "likes": 81
+  },
+  {
+    "id": 67,
+    "name": "Otome_Game_Hater",
+    "comment": "Biasanya gak suka anime adaptasi otome game, tapi ini beda. Karakter utamanya gak pasif, dia bergerak!",
+    "createdAt": "2026-02-15T18:00:00",
+    "likes": 23
+  },
+  {
+    "id": 68,
+    "name": "Mystery_Addict",
+    "comment": "Misterinya kompleks. Tiap episode dikasih clue, tapi tetep aja gak bisa nebak siapa pelakunya.",
+    "createdAt": "2026-02-15T17:25:00",
+    "likes": 19
+  },
+  {
+    "id": 69,
+    "name": "Gag_Anime_Lover",
+    "comment": "Parodi anime lain di episode ini kocak banget! Apalagi pas ngejek trope isekai yang overused.",
+    "createdAt": "2026-02-15T16:40:00",
+    "likes": 57
+  },
+  {
+    "id": 70,
+    "name": "Acchi_Kocchi",
+    "comment": "Where is the next episode? I need it now! Japanese government please make it 48 episodes a year!",
+    "createdAt": "2026-02-15T15:30:00",
+    "likes": 132
+  },
+  {
+    "id": 71,
+    "name": "Murakami_Fan",
+    "comment": "Vibesnya absurd, surreal, kayak baca novel Haruki Murakami. Tapi visualnya bikin gak bingung.",
+    "createdAt": "2026-02-15T14:45:00",
+    "likes": 14
+  },
+  {
+    "id": 72,
+    "name": "Nippon_Ichi",
+    "comment": "Akhirnya ada yang bahas mitologi Jepang dengan bener. Dewa-dewa Shinto digambarkan sesuai folklore.",
+    "createdAt": "2026-02-15T13:20:00",
+    "likes": 38
+  },
+  {
+    "id": 73,
+    "name": "Kawaii_Force",
+    "comment": "Fashion karakternya lucu! Pengen baju kayak gitu di dunia nyata.",
+    "createdAt": "2026-02-15T12:10:00",
+    "likes": 29
+  },
+  {
+    "id": 74,
+    "name": "Anime_Sekai",
+    "comment": "Siapa yang nonton sambil scroll komentar? Angkat tangan! ✋",
+    "createdAt": "2026-02-15T11:25:00",
+    "likes": 201
+  },
+  {
+    "id": 75,
+    "name": "Ryuugu_Rena",
+    "comment": "Wkwkwk pas scene horror malah pada komen lucu. Komunitas ini gila semua",
+    "createdAt": "2026-02-15T10:00:00",
+    "likes": 56
+  },
+  {
+    "id": 76,
+    "name": "Kaito_Kid",
+    "comment": "Heist anime yang smart. Trik-triknya masuk akal dan bisa dipraktikkin (tapi jangan ya)",
+    "createdAt": "2026-02-15T09:30:00",
+    "likes": 17
+  },
+  {
+    "id": 77,
+    "name": "Shoujo_Mangaka",
+    "comment": "Sakura-nya bermekaran, seragam sekolahnya rapi, romance-nya pure. Shoujo banget vibesnya ✨",
+    "createdAt": "2026-02-15T08:45:00",
+    "likes": 62
+  },
+  {
+    "id": 78,
+    "name": "Gaijin_Go_Home",
+    "comment": "Finally, an anime that doesn't treat foreigners as a joke. The gaijin character is actually cool and helpful.",
+    "createdAt": "2026-02-15T07:50:00",
+    "likes": 11
+  },
+  {
+    "id": 79,
+    "name": "Pirate_King_22",
+    "comment": "Petualangan di lautan! Kapalnya keren, karakternya unik, dan monster lautnya serem.",
+    "createdAt": "2026-02-15T06:15:00",
+    "likes": 25
+  },
+  {
+    "id": 80,
+    "name": "Ninja_Scroll",
+    "comment": "Adegan pedangnya koreografinya rapi. Kelihatan seperti tarian, tapi mematikan.",
+    "createdAt": "2026-02-15T05:30:00",
+    "likes": 19
+  },
+  {
+    "id": 81,
+    "name": "Gundam_Meister",
+    "comment": "Mecha-nya bulky dan berat, bukan yang lincah. Memberi kesan real robot yang realistis.",
+    "createdAt": "2026-02-15T04:00:00",
+    "likes": 13
+  },
+  {
+    "id": 82,
+    "name": "JK_Random",
+    "comment": "Cewek SMA di anime kok selalu hidupnya seru ya. Pengen juga kayak gitu",
+    "createdAt": "2026-02-14T23:55:00",
+    "likes": 77
+  },
+  {
+    "id": 83,
+    "name": "Sensei_Medic",
+    "comment": "As a medical student, akurasi bagian anatomynya bikin aku angkat topi. Mereka riset beneran!",
+    "createdAt": "2026-02-14T22:40:00",
+    "likes": 45
+  },
+  {
+    "id": 84,
+    "name": "Hikikomori_Hero",
+    "comment": "MC yang hikikomori (takut sosial) tapi dipaksa jadi hero. Lucu dan mengharukan.",
+    "createdAt": "2026-02-14T21:30:00",
+    "likes": 32
+  },
+  {
+    "id": 85,
+    "name": "Kusonime",
+    "comment": "Judulnya panjang banget, tp ternyata ceritanya bagus. Don't judge a book by its cover.",
+    "createdAt": "2026-02-14T20:45:00",
+    "likes": 61
+  },
+  {
+    "id": 86,
+    "name": "Osu_Osu",
+    "comment": "Main rhythm game sambil dengerin OP anime ini. Perfect combo!",
+    "createdAt": "2026-02-14T19:20:00",
+    "likes": 18
+  },
+  {
+    "id": 87,
+    "name": "Cosplayer_Id",
+    "comment": "Desain kostumnya detail tapi gak ribet. Kayaknya bakal banyak yang cosplay dari anime ini.",
+    "createdAt": "2026-02-14T18:10:00",
+    "likes": 24
+  },
+  {
+    "id": 88,
+    "name": "Figurine_Collector",
+    "comment": "Karakter desainnya seger. Mudah-mudahan figurnya cepet keluar, udah siap pre-order!",
+    "createdAt": "2026-02-14T17:25:00",
+    "likes": 31
+  },
+  {
+    "id": 89,
+    "name": "Irodori_Anime",
+    "comment": "Warna pastelnya enak dilihat. Backgroundnya detail, pengen tinggal di dunia anime ini.",
+    "createdAt": "2026-02-14T16:00:00",
+    "likes": 27
+  },
+  {
+    "id": 90,
+    "name": "Kage_Bunshin",
+    "comment": "Teknik rahasianya dikasih tahu di episode ini. Jadi inget anime ninja jaman dulu.",
+    "createdAt": "2026-02-14T15:30:00",
+    "likes": 9
+  },
+  {
+    "id": 91,
+    "name": "Baito_Kun",
+    "comment": "Nonton abis lembur, badan capek tapi hati senang. Anime ini penyelamat di akhir pekan.",
+    "createdAt": "2026-02-14T14:15:00",
+    "likes": 43
+  },
+  {
+    "id": 92,
+    "name": "Onsen_Musume",
+    "comment": "Scene di onsen (pemandian air panas) selalu jadi episode favorit. Santai dan sering ada obrolan penting.",
+    "createdAt": "2026-02-14T13:00:00",
+    "likes": 22
+  },
+  {
+    "id": 93,
+    "name": "Yuugen",
+    "comment": "Ada keindahan yang misterius (yuugen) dalam setiap episodenya. Susah dijelasin, tapi kerasa.",
+    "createdAt": "2026-02-14T12:30:00",
+    "likes": 16
+  },
+  {
+    "id": 94,
+    "name": "Kemono_Friend",
+    "comment": "Karakter animal-nya lucu-lucu! Desainnya perpaduan manusia dan hewan yang pas.",
+    "createdAt": "2026-02-14T11:45:00",
+    "likes": 19
+  },
+  {
+    "id": 95,
+    "name": "Shin_Seiki",
+    "comment": "Anime ini ngebuat aku nangis, ketawa, mikir, dan marah dalam satu episode. Rollercoaster emosi!",
+    "createdAt": "2026-02-14T10:20:00",
+    "likes": 58
+  },
+  {
+    "id": 96,
+    "name": "Neko_Arc",
+    "comment": "Ada kucingnya! Kucingnya ngomong! Langsung auto 10/10",
+    "createdAt": "2026-02-14T09:35:00",
+    "likes": 104
+  },
+  {
+    "id": 97,
+    "name": "Sakuga_Mad",
+    "comment": "Di menit 17:30 itu sakuga banget! Animatornya kudu dikasih bonus gede.",
+    "createdAt": "2026-02-14T08:50:00",
+    "likes": 37
+  },
+  {
+    "id": 98,
+    "name": "Genres_Explorer",
+    "comment": "Anime ini campuran genre yang aneh: komedi romantis horror. Tapi somehow works!",
+    "createdAt": "2026-02-14T07:40:00",
+    "likes": 26
+  },
+  {
+    "id": 99,
+    "name": "Future_AnimeFan",
+    "comment": "Nonton ini tahun 2026, bakal jadi nostalgia 10 tahun lagi.",
+    "createdAt": "2026-02-14T06:25:00",
+    "likes": 66
+  },
+  {
+    "id": 100,
+    "name": "Last_Hero",
+    "comment": "Ini episode terakhir season 1? Jangan dong! Cliffhanger lagi! Kapan season 2? 😫",
+    "createdAt": "2026-02-14T05:00:00",
+    "likes": 253
+  },
+  {
+    "id": 101,
+    "name": "Deku_99",
+    "comment": "Plus Ultra! Semangat terus buat tim produksinya!",
+    "createdAt": "2026-02-14T03:30:00",
+    "likes": 41
+  },
+  {
+    "id": 102,
+    "name": "Senpai_Notice_Me",
+    "comment": "Siapa yang berharap bakal dapat senpai kayak di anime? *angkat tangan*",
+    "createdAt": "2026-02-14T02:15:00",
+    "likes": 88
+  },
+  {
+    "id": 103,
+    "name": "Yamato_Nadeshiko",
+    "comment": "Karakter ceweknya strong dan mandiri, tapi tetap lembut. Role model banget.",
+    "createdAt": "2026-02-14T01:10:00",
+    "likes": 35
+  },
+  {
+    "id": 104,
+    "name": "Chunchunmaru",
+    "comment": "Senjatanya bisa ngomong? Kocak banget interaksinya sama MC.",
+    "createdAt": "2026-02-13T23:45:00",
+    "likes": 19
+  },
+  {
+    "id": 105,
+    "name": "Abang_Wibu",
+    "comment": "Dari 100 komentar, gak ada yang nyebutin betapa bagusnya background art di anime ini? Underrated banget!",
+    "createdAt": "2026-02-13T22:20:00",
+    "likes": 14
+  }
+]
+

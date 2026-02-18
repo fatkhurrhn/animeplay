@@ -7,10 +7,12 @@ import ContinueWatching from '../components/home/ContinueWatching';
 import ContentGrid from '../components/home/ContentGrid';
 import { useHomeData } from '../hooks/useHomeData';
 import { getHistory, removeFromHistory, clearHistory } from '../utils/history';
+import AnimeMovie from '../components/home/AnimeMovie';
+import PopularTodaySection from '../components/home/PopularToday';
 
 const HomePage = () => { // Hapus props onAnimeSelect karena gak dipake
   const navigate = useNavigate();
-  const [activeCategory, setActiveCategory] = useState('anime');
+  const [activeCategory, setActiveCategory] = useState('all');
   const [watchHistory, setWatchHistory] = useState([]);
   const [headerScrolled, setHeaderScrolled] = useState(false);
   const [historyLoading, setHistoryLoading] = useState(true);
@@ -144,6 +146,9 @@ const HomePage = () => { // Hapus props onAnimeSelect karena gak dipake
           activeCategory={activeCategory}
           onCategoryChange={setActiveCategory}
         />
+
+        <PopularTodaySection/>
+        <AnimeMovie/>
       </div>
     </div>
   );
